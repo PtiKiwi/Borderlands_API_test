@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BorderlandsDataServices", "BorderlandsDataServices.csproj", "{34FB2793-F3F8-4625-84B6-6788D1EE9263}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BorderlandsDataServices.Tests", "..\BorderlandsDataServices.Tests\BorderlandsDataServices.Tests.csproj", "{ECA4A0FD-6609-43B0-9DB6-3E6E266E1FB8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34FB2793-F3F8-4625-84B6-6788D1EE9263}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34FB2793-F3F8-4625-84B6-6788D1EE9263}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34FB2793-F3F8-4625-84B6-6788D1EE9263}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34FB2793-F3F8-4625-84B6-6788D1EE9263}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECA4A0FD-6609-43B0-9DB6-3E6E266E1FB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECA4A0FD-6609-43B0-9DB6-3E6E266E1FB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECA4A0FD-6609-43B0-9DB6-3E6E266E1FB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECA4A0FD-6609-43B0-9DB6-3E6E266E1FB8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B65EDF1C-8CE5-4FDF-B66E-150730E6F2D9}
+	EndGlobalSection
+EndGlobal
